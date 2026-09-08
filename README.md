@@ -247,3 +247,6 @@ This repository serves as the official landing page for Enotria: The Last Song. 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Enotria: The Last Song today!**
+
+---
+**Last updated:** 2026-09-08 10:57:48 UTC
