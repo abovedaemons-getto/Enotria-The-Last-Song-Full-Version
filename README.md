@@ -249,4 +249,4 @@ This repository serves as the official landing page for Enotria: The Last Song. 
 **Get the most recent version of Enotria: The Last Song today!**
 
 ---
-**Last updated:** 2026-09-13 23:59:19 UTC
+**Last updated:** 2026-09-14 04:45:44 UTC
